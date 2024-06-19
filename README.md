@@ -1,4 +1,4 @@
-#Car-Sales-Dashboard 🚗
+Car-Sales-Dashboard 🚗
 
 
 Data Integration and Visualization:
